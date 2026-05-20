@@ -58,11 +58,6 @@ A decentralized application (DApp) designed to streamline consortium credit, KYC
 - **KYC & Scoring Infrastructure:** Integrated decentralized KYC registries and score metrics into the smart contract state machine.
 - **Full-Stack Integration:** Connected the Hardhat blockchain environment directly to a Node.js/MongoDB backend for unified dashboard state tracking.
 
-### 🎓 Node Course Project: Student Management System (Private)
-A comprehensive backend application for managing student records, built during an advanced Node.js course.
-- **Backend Architecture:** Developed robust RESTful APIs for student enrollment, grading, and profile management using Express and MongoDB.
-- **Data Security:** Implemented authentication and validation middlewares to secure sensitive student information.
----
 
 ## 🎯 Current Focus & Goals
 - 🤝 Open to collaboration on cutting-edge **Web3, AI, & real-time DApps**.
