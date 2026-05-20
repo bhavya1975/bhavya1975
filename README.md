@@ -52,22 +52,6 @@ A full-stack JavaScript application to manage books, patrons, and loan tracking.
 
 ---
 
-## 📊 GitHub Analytics
-
-### 🏆 GitHub Trophies
-[![]](https://github-profile-trophy.vercel.app/?username=bhavya1975&theme=nord)
-
-### 📈 Contribution Activity
-[![]](https://github-readme-activity-graph.vercel.app/graph?username=bhavya1975&theme=nord)
-
-### ⚡ Stats & Top Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya1975&show_icons=true&theme=nord&count_private=true" alt="Bhavya's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya1975&layout=compact&theme=nord" alt="Bhavya's Top Languages" height="180px" />
-</p>
-
----
-
 ## 🎯 Current Focus & Goals
 - 🦀 Mastering **Rust** to build high-throughput systems and smart contracts.
 - ⚡ Deep-diving into **Zero-Knowledge Proofs (ZKPs)** and advanced blockchain scaling solutions.
