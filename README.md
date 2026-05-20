@@ -41,12 +41,6 @@ A real-time cricket scoring and match management platform built with high perfor
 - **Optimized Caching:** Implemented Redis caching layers to speed up hot match-state lookups and decrease database overhead.
 - **Robust Security:** Handled user registration, login, JWT management, secure password hashing, and complex match scheduling conflict validation.
 
-### 🏦 [Consortium Blockchain Loan System](https://github.com/bhavya1975/consortium-blockchain-loan-system)
-A decentralized application (DApp) designed to streamline consortium credit, KYC verification, and collateral loan management.
-- **Smart Contracts:** Built robust `LoanManagement.sol` and supporting Solidity smart contracts for automated loan tracking.
-- **KYC & Scoring Infrastructure:** Integrated decentralized KYC registries and score metrics into the smart contract state machine.
-- **Full-Stack Integration:** Connected the Hardhat blockchain environment directly to a Node.js/MongoDB backend for unified dashboard state tracking.
-
 ### ✉️ [Cold Email Generation Tool](https://github.com/bhavya1975/cold-email-generation-tool)
 An AI-powered automation tool written in Python to optimize personalized email outreach.
 - **LLM Integrations:** Leveraged generative AI models to generate tailored cold emails based on prospect metadata.
@@ -82,5 +76,12 @@ A full-stack JavaScript application to manage books, patrons, and loan tracking.
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [@bhavya1975](https://github.com/bhavya1975)
+<p align="left">
+  <a href="https://github.com/bhavya1975"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Bhavya_Surati/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/bhavyamsurati__"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/bhavya1907"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codolio.com/profile/Bhavya__"><img src="https://img.shields.io/badge/Codolio-0078D4?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codolio" /></a>
+</p>
+
 - **Email:** [153809382+bhavya1975@users.noreply.github.com](mailto:153809382+bhavya1975@users.noreply.github.com)
