@@ -1,14 +1,17 @@
 # Hi there, I'm Bhavya Surati! 👋
 
-### Full-Stack Developer & Blockchain/Web3 Builder
+### Full-Stack Developer
 
-Passionate about building high-performance web applications, real-time engines, and decentralized smart contracts. I love translating complex system logic into clean, robust code.
+Passionate about building high-performance web applications and real-time engines. I love translating complex system logic into clean, robust code.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages & Smart Contracts
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -16,16 +19,15 @@ Passionate about building high-performance web applications, real-time engines, 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks, Libraries & Runtimes
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Hardhat](https://img.shields.io/badge/hardhat-%23eef2f6.svg?style=for-the-badge&logo=hardhat&logoColor=%23fcc419)
-![Ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### 🗄️ Databases, Caching & Real-Time
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -68,4 +70,4 @@ A full-stack JavaScript application to manage books, patrons, and loan tracking.
   <a href="https://codolio.com/profile/Bhavya__"><img src="https://img.shields.io/badge/Codolio-0078D4?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codolio" /></a>
 </p>
 
-- **Email:** [153809382+bhavya1975@users.noreply.github.com](mailto:153809382+bhavya1975@users.noreply.github.com)
+- **Email:** [Bhavya Surati](bhavyamsurati@gmail.com)
