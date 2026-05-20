@@ -52,11 +52,19 @@ An AI-powered automation tool written in Python to optimize personalized email o
 A full-stack JavaScript application to manage books, patrons, and loan tracking.
 - **Catalog Management:** Implemented structured APIs to CRUD books, track availability states, and automate due-date notifications.
 
+### 🏦 [Consortium Blockchain Loan System](https://github.com/bhavya1975/consortium-blockchain-loan-system)
+A decentralized application (DApp) designed to streamline consortium credit, KYC verification, and collateral loan management.
+- **Smart Contracts:** Built robust `LoanManagement.sol` and supporting Solidity smart contracts for automated loan tracking.
+- **KYC & Scoring Infrastructure:** Integrated decentralized KYC registries and score metrics into the smart contract state machine.
+- **Full-Stack Integration:** Connected the Hardhat blockchain environment directly to a Node.js/MongoDB backend for unified dashboard state tracking.
+
+### 🎓 Node Course Project: Student Management System (Private)
+A comprehensive backend application for managing student records, built during an advanced Node.js course.
+- **Backend Architecture:** Developed robust RESTful APIs for student enrollment, grading, and profile management using Express and MongoDB.
+- **Data Security:** Implemented authentication and validation middlewares to secure sensitive student information.
 ---
 
 ## 🎯 Current Focus & Goals
-- 🦀 Mastering **Rust** to build high-throughput systems and smart contracts.
-- ⚡ Deep-diving into **Zero-Knowledge Proofs (ZKPs)** and advanced blockchain scaling solutions.
 - 🤝 Open to collaboration on cutting-edge **Web3, AI, & real-time DApps**.
 
 ---
@@ -70,4 +78,4 @@ A full-stack JavaScript application to manage books, patrons, and loan tracking.
   <a href="https://codolio.com/profile/Bhavya__"><img src="https://img.shields.io/badge/Codolio-0078D4?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codolio" /></a>
 </p>
 
-- **Email:** [Bhavya Surati](bhavyamsurati@gmail.com)
+- **Email:** [bhavyamsurati@gmail.com](bhavyamsurati@gmail.com) [bhavya.s11@ahduni.edu.in](bhavya.s11@ahduni.edu.in)
