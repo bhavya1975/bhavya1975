@@ -1,66 +1,90 @@
 # Hi there, I'm Bhavya Surati! 👋
 
-### Full-Stack Developer
+### Full-Stack Developer & Competitive Programmer
 
-Passionate about building high-performance web applications and real-time engines. I love translating complex system logic into clean, robust code.
+Passionate about building robust web applications, data-driven backends, and optimizing system logic. I love solving complex algorithmic challenges and translating ideas into clean, efficient code.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Languages & Smart Contracts
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Languages
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks, Libraries & Runtimes
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Hardhat](https://img.shields.io/badge/hardhat-%23eef2f6.svg?style=for-the-badge&logo=hardhat&logoColor=%23fcc419)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### 🗄️ Databases, Caching & Real-Time
+### 🗄️ Databases & Vector Stores
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FC8019?style=for-the-badge&logo=aircharts&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Recent Work & Projects
 
 ### 🏏 [Sportify](https://github.com/bhavya1975/sportify)
-A real-time cricket scoring and match management platform built with high performance and instant state synchronization in mind.
-- **Real-Time Engine:** Handled updates dynamically using WebSockets to synchronize client views with the scoring server instantly.
-- **Optimized Caching:** Implemented Redis caching layers to speed up hot match-state lookups and decrease database overhead.
-- **Robust Security:** Handled user registration, login, JWT management, secure password hashing, and complex match scheduling conflict validation.
+A real-time cricket match hosting and scoring platform built in a collaborative team of 4[cite: 1].
+- **Live Scoring & Updates:** Enabled users to host matches and update ball-by-ball actions with live-calculated statistics[cite: 1].
+- **Authentication & Integration:** Implemented JWT-based authentication for secure access controls and structured CSV data integration for scalable data viewing[cite: 1].
+- **Tech Stack:** MongoDB, Express.js, React, Node.js, Mongoose, JWT[cite: 1].
 
-### ✉️ [Cold Email Generation Tool](https://github.com/bhavya1975/cold-email-generation-tool)
-An AI-powered automation tool written in Python to optimize personalized email outreach.
-- **LLM Integrations:** Leveraged generative AI models to generate tailored cold emails based on prospect metadata.
-- **Scalable Workflows:** Streamlined bulk personalization to save time while maintaining highly contextual communication.
+### ✉️ [Cold Email Generator](https://github.com/bhavya1975/cold-email-generation-tool)
+An AI-powered automation tool designed to optimize personalized job outreach[cite: 1].
+- **Smart Scraping & Extraction:** Leveraged LangChain and an LLM via Groq API to scrape company career pages and accurately extract job listings[cite: 1].
+- **Contextual Generation:** Utilized ChromaDB vector embeddings to match candidate skills dynamically against job constraints, automating highly tailored emails[cite: 1].
+- **Tech Stack:** Python, LangChain, Groq API, Streamlit, ChromaDB[cite: 1].
 
 ### 📚 [Library Management System](https://github.com/bhavya1975/libraryManagementSystem)
-A full-stack JavaScript application to manage books, patrons, and loan tracking.
-- **Catalog Management:** Implemented structured APIs to CRUD books, track availability states, and automate due-date notifications.
+A full-stack web application designed for seamless cataloging and user record management[cite: 1].
+- **Normalized Architecture:** Engineered the core database with 3NF-normalized relational schemas to eliminate redundancy and maintain high data integrity[cite: 1].
+- **Query Optimization:** Tuned complex backend workflows and SQL logic for faster data retrieval and operations tracking[cite: 1].
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, Oracle Database[cite: 1].
 
-### 🏦 [Consortium Blockchain Loan System](https://github.com/bhavya1975/consortium-blockchain-loan-system)
-A decentralized application (DApp) designed to streamline consortium credit, KYC verification, and collateral loan management.
-- **Smart Contracts:** Built robust `LoanManagement.sol` and supporting Solidity smart contracts for automated loan tracking.
-- **KYC & Scoring Infrastructure:** Integrated decentralized KYC registries and score metrics into the smart contract state machine.
-- **Full-Stack Integration:** Connected the Hardhat blockchain environment directly to a Node.js/MongoDB backend for unified dashboard state tracking.
+### 🐍 [Snake Game](https://github.com/bhavya1975/snake-game-java)
+A desktop-based classic Snake Game developed in Java focusing on fundamental software engineering principles.
+- **Object-Oriented Architecture:** Designed using strict Object-Oriented Programming (OOPs) concepts to decouple game entities like the Snake, Food, and Game Board.
+- **State & Event Driven:** Managed dynamic layout states, coordinate-based collision detection logic, and responsive real-time keyboard event listeners.
+- **Tech Stack:** Java, Java Swing / AWT (Graphics).
+---
 
+## 🏆 Achievements & Competitive Programming
+* **Problem Solving:** Solved over 1,100+ algorithmic challenges across leading coding platforms[cite: 1].
+* **LeetCode:** Knight (Peak Rating: 1858)
+* **CodeChef:** 3-Star (Peak Rating: 1606)
+* **CodeForces:** Pupil (Peak Rating: 1248)
+* **Clash of Codes (COC-2026):** Secured **4th Rank** individually among 100+ participants and led a team of 4 to a Top-3 finish.
+* **GUJCET 2023:** Ranked in the **top 4.5%** out of 70,000+ students.
+
+---
+
+## 📜 Certifications
+* **Software Engineer Certificate** – HackerRank (May 2026)
+https://www.hackerrank.com/certificates/iframe/2867594f2f84
+* **The Complete Full Stack Web Development Bootcamp** – Udemy (Apr 2026)
+* **AWS Academy Graduate - Data Engineering - Training Badge** - AWS
+https://www.credly.com/badges/974f8af5-8ae6-4ef4-80c0-fc30c657b051
+
+---
 
 ## 🎯 Current Focus & Goals
-- 🤝 Open to collaboration on cutting-edge **Web3, AI, & real-time DApps**.
+- 🤝 Open to collaborating on **Full-Stack, GenAI/LLM-driven apps, and High-Performance Backend Architectures**.
 
 ---
 
@@ -73,7 +97,7 @@ A decentralized application (DApp) designed to streamline consortium credit, KYC
   <a href="https://codolio.com/profile/Bhavya__"><img src="https://img.shields.io/badge/Codolio-0078D4?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codolio" /></a>
 </p>
 
-- **Email:** [bhavyamsurati@gmail.com](bhavyamsurati@gmail.com) [bhavya.s11@ahduni.edu.in](bhavya.s11@ahduni.edu.in)
+- **Emails:** [bhavya.s11@ahduni.edu.in](mailto:bhavya.s11@ahduni.edu.in)[cite: 1] | [bhavyamsurati@gmail.com](mailto:bhavyamsurati@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake-dark.svg">
