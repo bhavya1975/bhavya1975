@@ -40,22 +40,22 @@ Passionate about building robust web applications, data-driven backends, and opt
 ## 🚀 Recent Work & Projects
 
 ### 🏏 [Sportify](https://github.com/bhavya1975/sportify)
-A real-time cricket match hosting and scoring platform built in a collaborative team of 4[cite: 1].
+A real-time cricket match hosting and scoring platform built in a collaborative team of 4.
 - **Live Scoring & Updates:** Enabled users to host matches and update ball-by-ball actions with live-calculated statistics[cite: 1].
-- **Authentication & Integration:** Implemented JWT-based authentication for secure access controls and structured CSV data integration for scalable data viewing[cite: 1].
-- **Tech Stack:** MongoDB, Express.js, React, Node.js, Mongoose, JWT[cite: 1].
+- **Authentication & Integration:** Implemented JWT-based authentication for secure access controls and structured CSV data integration for scalable data viewing.
+- **Tech Stack:** MongoDB, Express.js, React, Node.js, Mongoose, JWT.
 
 ### ✉️ [Cold Email Generator](https://github.com/bhavya1975/cold-email-generation-tool)
-An AI-powered automation tool designed to optimize personalized job outreach[cite: 1].
-- **Smart Scraping & Extraction:** Leveraged LangChain and an LLM via Groq API to scrape company career pages and accurately extract job listings[cite: 1].
-- **Contextual Generation:** Utilized ChromaDB vector embeddings to match candidate skills dynamically against job constraints, automating highly tailored emails[cite: 1].
-- **Tech Stack:** Python, LangChain, Groq API, Streamlit, ChromaDB[cite: 1].
+An AI-powered automation tool designed to optimize personalized job outreach.
+- **Smart Scraping & Extraction:** Leveraged LangChain and an LLM via Groq API to scrape company career pages and accurately extract job listings.
+- **Contextual Generation:** Utilized ChromaDB vector embeddings to match candidate skills dynamically against job constraints, automating highly tailored emails.
+- **Tech Stack:** Python, LangChain, Groq API, Streamlit, ChromaDB.
 
 ### 📚 [Library Management System](https://github.com/bhavya1975/libraryManagementSystem)
-A full-stack web application designed for seamless cataloging and user record management[cite: 1].
-- **Normalized Architecture:** Engineered the core database with 3NF-normalized relational schemas to eliminate redundancy and maintain high data integrity[cite: 1].
-- **Query Optimization:** Tuned complex backend workflows and SQL logic for faster data retrieval and operations tracking[cite: 1].
-- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, Oracle Database[cite: 1].
+A full-stack web application designed for seamless cataloging and user record management.
+- **Normalized Architecture:** Engineered the core database with 3NF-normalized relational schemas to eliminate redundancy and maintain high data integrity.
+- **Query Optimization:** Tuned complex backend workflows and SQL logic for faster data retrieval and operations tracking.
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, Oracle Database.
 
 ### 🐍 [Snake Game](https://github.com/bhavya1975/snake-game-java)
 A desktop-based classic Snake Game developed in Java focusing on fundamental software engineering principles.
@@ -65,7 +65,7 @@ A desktop-based classic Snake Game developed in Java focusing on fundamental sof
 ---
 
 ## 🏆 Achievements & Competitive Programming
-* **Problem Solving:** Solved over 1,100+ algorithmic challenges across leading coding platforms[cite: 1].
+* **Problem Solving:** Solved over 1,100+ algorithmic challenges across leading coding platforms.
 * **LeetCode:** Knight (Peak Rating: 1858)
 * **CodeChef:** 3-Star (Peak Rating: 1606)
 * **CodeForces:** Pupil (Peak Rating: 1248)
@@ -97,7 +97,7 @@ https://www.credly.com/badges/974f8af5-8ae6-4ef4-80c0-fc30c657b051
   <a href="https://codolio.com/profile/Bhavya__"><img src="https://img.shields.io/badge/Codolio-0078D4?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codolio" /></a>
 </p>
 
-- **Emails:** [bhavya.s11@ahduni.edu.in](mailto:bhavya.s11@ahduni.edu.in)[cite: 1] | [bhavyamsurati@gmail.com](mailto:bhavyamsurati@gmail.com)
+- **Emails:** [bhavya.s11@ahduni.edu.in](mailto:bhavya.s11@ahduni.edu.in) | [bhavyamsurati@gmail.com](mailto:bhavyamsurati@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake-dark.svg">
