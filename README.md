@@ -74,3 +74,9 @@ A decentralized application (DApp) designed to streamline consortium credit, KYC
 </p>
 
 - **Email:** [bhavyamsurati@gmail.com](bhavyamsurati@gmail.com) [bhavya.s11@ahduni.edu.in](bhavya.s11@ahduni.edu.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/bhavya1975/snakeheatmap/output/github-contribution-grid-snake.svg">
+</picture>
