@@ -61,7 +61,7 @@ A full-stack web application designed for seamless cataloging and user record ma
 A desktop-based classic Snake Game developed in Java focusing on fundamental software engineering principles.
 - **Object-Oriented Architecture:** Designed using strict Object-Oriented Programming (OOPs) concepts to decouple game entities like the Snake, Food, and Game Board.
 - **State & Event Driven:** Managed dynamic layout states, coordinate-based collision detection logic, and responsive real-time keyboard event listeners.
-- **Tech Stack:** Java, Java Swing / AWT (Graphics).
+- **Tech Stack:** Java, Java Swing / AWT(Graphics).
 ---
 
 ## 🏆 Achievements & Competitive Programming
