@@ -87,6 +87,7 @@ https://www.credly.com/badges/974f8af5-8ae6-4ef4-80c0-fc30c657b051
 - 🤝 Open to collaborating on **Full-Stack, GenAI/LLM-driven apps, and High-Performance Backend Architectures**.
 
 ---
+[![Bhavya's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=bhavya1975)](https://github.com/bhavya1975/github-readme-stats-fast)
 
 ### 📫 Connect with Me
 <p align="left">
